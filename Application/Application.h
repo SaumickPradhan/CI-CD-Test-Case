@@ -16,6 +16,9 @@ public:
 	CoolClass(void);
 	int Calc(int a, int b);
 	int Ming(int c, int d);
+	float Average(float array[], int size); // Declaration for Average function
+    int Square(int x); // Declaration for Square function
+    bool IsPrime(int num); // Declaration for IsPrime function
 };
 
 

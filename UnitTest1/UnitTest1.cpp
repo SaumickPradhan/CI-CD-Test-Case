@@ -44,7 +44,8 @@ namespace UnitTest1
 			CoolClass coolClass;
 			Assert::AreEqual(5, coolClass.Ming(3, 2));
 		}
-	TEST_METHOD(TestMethod6)
+		
+		TEST_METHOD(TestMethod6)
         {
             CoolClass coolClass;
             float array[] = { 1.0, 2.0, 3.0, 4.0, 5.0 };
